@@ -1,0 +1,78 @@
+[
+    {
+        "role":"Yes, Madam!",
+        "company":"Inspector Ng",
+        "range":"1985"
+    },
+    {
+        "role":"Supercop",
+        "company":"Insp. Jessica Yang - Director of INTERPOL",
+        "range":"1992"
+    },
+    {
+        "role":"Tai Chi Master",
+        "company":"Siu Lin",
+        "range":"1993"
+    },
+   
+    {
+        "role":"Wing Chun",
+        "company":"Yim Wing Chun",
+        "range":"1994"
+    },
+    {
+        "role":"Tomorrow Never Dies",
+        "company":"Wai Lin",
+        "range":"1997"
+    },
+    {
+        "role":"Crouching Tiger, Hidden Dragon",
+        "company":"Yu Shu Lien",
+        "range":"2000"
+    },
+    {
+        "role":"Memoirs of a Geisha",
+        "company":"Mameha",
+        "range":"2005"
+    },
+    {
+        "role":"Reign of Assassins",
+        "company":"Zeng Jing",
+        "range":"2010"
+    },
+    {
+        "role":"The Lady",
+        "company":"Aung San Suu Kyi",
+        "range":"2011"
+    },
+    {
+        "role":"Star Trek: Discovery",
+        "company":"Philippa Georgiou",
+        "range":"2017-2020"
+    },
+    {
+        "role":"Crazy Rich Asians",
+        "company":"Eleanor Young",
+        "range":"2018"
+    },
+    {
+        "role":"Master Z: Ip Man Legacy",
+        "company":"Tso Ngan Kwan",
+        "range":"2019"
+    },
+    {
+        "role":"Last Christmas",
+        "company":"Santa",
+        "range":"2019"
+    },
+    {
+        "role":"Shang-Chi and the Legend of the Ten Rings",
+        "company":"Ying Nan",
+        "range":"2021"
+    },
+    {
+        "role":"Everything Everywhere All at Once",
+        "company":"Evelyn Quan Wang",
+        "range":"2022"
+    }
+]

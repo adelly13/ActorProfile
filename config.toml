@@ -1,0 +1,41 @@
+title = "Michelle Yeoh"
+baseURL = "https://actor.adelinachau.com"
+theme = "resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Geneva, Switzerland"
+favicon = "/favicon.ico"
+firstName = "Michelle"
+lastName = "Yeoh"
+profileImage = "img/headshot.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.instagram.com/michelleyeoh_official/"
+name = "Instagram"
+
+[[params.handles]]
+link = "https://facebook.com/yeoh2016"
+name = "Facebook"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
