@@ -10,4 +10,4 @@ This page represents the landing page for "projects" section. It is also shown u
 IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
 
 -->
-<p> <a href="/projects/videos">created</a></p>
+<p>This section contains projects <a href="/projects/videos">created</a></p>

@@ -6,6 +6,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
+publishDir = "/docs"
 
 [params]
 address = "Geneva, Switzerland"
@@ -16,7 +17,7 @@ profileImage = "img/headshot.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
+showProjects = true
 showPublications = false
 showQr = false
 showSkills = true

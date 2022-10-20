@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos on Michelle Yeoh</title>
+    <title>Photos and Videos on Michelle Yeoh</title>
     <link>https://actor.adelinachau.com/projects/videos/</link>
-    <description>Recent content in Videos on Michelle Yeoh</description>
+    <description>Recent content in Photos and Videos on Michelle Yeoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://actor.adelinachau.com/projects/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All Photos</title>
+      <link>https://actor.adelinachau.com/projects/videos/photos/</link>
+      <pubDate>Wed, 19 Oct 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://actor.adelinachau.com/projects/videos/photos/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Crouching Tiger, Hidden Dragon (2000)</title>
+      <link>https://actor.adelinachau.com/projects/videos/crouchingtiger/</link>
+      <pubDate>Tue, 18 Oct 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://actor.adelinachau.com/projects/videos/crouchingtiger/</guid>
+      <description>The following clip is from Crouching Tiger, Hidden Dragon, where Michelle Yeoh portrays Yu Shu Lien. In this scene, Michelle Yeoh&amp;rsquo;s martial arts skills really shine through as her character Shu Lien duels Jen. </description>
+    </item>
+    
+    <item>
+      <title>Crazy Rich Asians (2018)</title>
+      <link>https://actor.adelinachau.com/projects/videos/crazyrichasians/</link>
+      <pubDate>Mon, 17 Oct 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://actor.adelinachau.com/projects/videos/crazyrichasians/</guid>
+      <description>The following movie clip is from Crazy Rich Asians where Michelle Yeoh portrays Eleanor Young. In this scene, Eleanor Young was invited to play Mahjong with Rachel Chu, while discussing why Eleanor looks down upon Rachel Chu. </description>
+    </item>
+    
+    <item>
+      <title>Everything Everywhere All At Once (2022)</title>
+      <link>https://actor.adelinachau.com/projects/videos/everythingeverywhereallatonce/</link>
+      <pubDate>Sun, 16 Oct 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://actor.adelinachau.com/projects/videos/everythingeverywhereallatonce/</guid>
+      <description>The following clip is from Everything Everywhere All At Once where Michelle Yeoh portrays Evelyn Wang. In this scene, Michelle Yeoh utilizes her notable martial art skills to fight off an Alpha Jumper. </description>
+    </item>
+    
   </channel>
 </rss>
